@@ -12,11 +12,7 @@
         }
       ],
       "id": "F1*1aad56bb-ec21-4fb2-b699-d37da22ca0e1",
-      "wifeRefs": [
-        {
-          "ref": "I2*9c0e8562-89c6-4f35-aa64-b0d656268bb8"
-        }
-      ]
+      "wifeRefs": []
     },
     {
       "childRefs": [
@@ -781,25 +777,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F1*1aad56bb-ec21-4fb2-b699-d37da22ca0e1"
-        }
-      ],
-      "id": "I2*9c0e8562-89c6-4f35-aa64-b0d656268bb8",
-      "names": [
-        {
-          "value": "Nai Asang Pagar /Sagala/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
         }
       ]
     },
