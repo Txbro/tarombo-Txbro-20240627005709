@@ -6,11 +6,7 @@
           "ref": "I7*4e245f83-844d-4305-91a3-3edfcfcce739"
         }
       ],
-      "husbandRefs": [
-        {
-          "ref": "I6*33c9ec9d-c502-4757-ba05-c57ea456cd6e"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F5*bc8a8537-b457-416d-9aea-fdf751e27e9f"
     },
     {
@@ -708,30 +704,6 @@
     }
   },
   "people": [
-    {
-      "famc": [],
-      "fams": [
-        {
-          "ref": "F5*bc8a8537-b457-416d-9aea-fdf751e27e9f"
-        }
-      ],
-      "id": "I6*33c9ec9d-c502-4757-ba05-c57ea456cd6e",
-      "names": [
-        {
-          "value": "OmpunTahilalo /Siboro/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "tag": "DEAT",
-          "value": "Y"
-        }
-      ]
-    },
     {
       "famc": [
         {
