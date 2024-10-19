@@ -6,11 +6,7 @@
           "ref": "I8*9da0ed02-b634-4204-aa8a-bc2fc5023695"
         }
       ],
-      "husbandRefs": [
-        {
-          "ref": "I7*4e245f83-844d-4305-91a3-3edfcfcce739"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F6*eeb4c815-4868-4b53-96e8-dc7462009228"
     },
     {
@@ -695,30 +691,6 @@
     }
   },
   "people": [
-    {
-      "famc": [],
-      "fams": [
-        {
-          "ref": "F6*eeb4c815-4868-4b53-96e8-dc7462009228"
-        }
-      ],
-      "id": "I7*4e245f83-844d-4305-91a3-3edfcfcce739",
-      "names": [
-        {
-          "value": "Ompu Hutajolo /Siboro/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "tag": "DEAT",
-          "value": "Y"
-        }
-      ]
-    },
     {
       "famc": [
         {
