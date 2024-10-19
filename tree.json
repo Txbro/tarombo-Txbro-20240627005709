@@ -3,15 +3,6 @@
     {
       "childRefs": [
         {
-          "ref": "I6*33c9ec9d-c502-4757-ba05-c57ea456cd6e"
-        }
-      ],
-      "husbandRefs": [],
-      "id": "F4*25fab21a-9857-4fac-b30d-cdda8d4de1d0"
-    },
-    {
-      "childRefs": [
-        {
           "ref": "I7*4e245f83-844d-4305-91a3-3edfcfcce739"
         }
       ],
@@ -718,11 +709,7 @@
   },
   "people": [
     {
-      "famc": [
-        {
-          "ref": "F4*25fab21a-9857-4fac-b30d-cdda8d4de1d0"
-        }
-      ],
+      "famc": [],
       "fams": [
         {
           "ref": "F5*bc8a8537-b457-416d-9aea-fdf751e27e9f"
