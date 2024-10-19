@@ -6,11 +6,7 @@
           "ref": "I4*1e185998-fada-43e9-bd5e-0f01ffa71980"
         }
       ],
-      "husbandRefs": [
-        {
-          "ref": "I3*7356d806-4cef-4290-b41a-cf73501ab6dc"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F2*3efffb20-8f70-4295-8234-254fa0a0e10d"
     },
     {
@@ -747,30 +743,6 @@
     }
   },
   "people": [
-    {
-      "famc": [],
-      "fams": [
-        {
-          "ref": "F2*3efffb20-8f70-4295-8234-254fa0a0e10d"
-        }
-      ],
-      "id": "I3*7356d806-4cef-4290-b41a-cf73501ab6dc",
-      "names": [
-        {
-          "value": "Bangundongoron /Siboro/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "tag": "DEAT",
-          "value": "Y"
-        }
-      ]
-    },
     {
       "famc": [
         {
