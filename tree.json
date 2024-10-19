@@ -6,11 +6,7 @@
           "ref": "I9*3e3b4937-dbdd-4f18-b2a5-e6a7ab748954"
         }
       ],
-      "husbandRefs": [
-        {
-          "ref": "I8*9da0ed02-b634-4204-aa8a-bc2fc5023695"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F7*d575f281-1a4f-4c36-9f72-ef1f3210e27e"
     },
     {
@@ -682,30 +678,6 @@
     }
   },
   "people": [
-    {
-      "famc": [],
-      "fams": [
-        {
-          "ref": "F7*d575f281-1a4f-4c36-9f72-ef1f3210e27e"
-        }
-      ],
-      "id": "I8*9da0ed02-b634-4204-aa8a-bc2fc5023695",
-      "names": [
-        {
-          "value": "Ompu Sumindang /Siboro/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "tag": "DEAT",
-          "value": "Y"
-        }
-      ]
-    },
     {
       "famc": [
         {
