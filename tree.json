@@ -6,11 +6,7 @@
           "ref": "I12*16e4b0fe-650a-4042-b552-a36c86697b82"
         }
       ],
-      "husbandRefs": [
-        {
-          "ref": "I11*cae24c3a-8738-447b-9285-7a40c9424d53"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F10*7fc752f1-9cee-4549-9ed9-0d064adacb27"
     },
     {
@@ -643,30 +639,6 @@
     }
   },
   "people": [
-    {
-      "famc": [],
-      "fams": [
-        {
-          "ref": "F10*7fc752f1-9cee-4549-9ed9-0d064adacb27"
-        }
-      ],
-      "id": "I11*cae24c3a-8738-447b-9285-7a40c9424d53",
-      "names": [
-        {
-          "value": "Ompu Jumarar /Siboro/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "tag": "DEAT",
-          "value": "Y"
-        }
-      ]
-    },
     {
       "famc": [
         {
