@@ -6,11 +6,7 @@
           "ref": "I6*33c9ec9d-c502-4757-ba05-c57ea456cd6e"
         }
       ],
-      "husbandRefs": [
-        {
-          "ref": "I5*5fe6b927-b702-4227-8c51-561f812d7fbe"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F4*25fab21a-9857-4fac-b30d-cdda8d4de1d0"
     },
     {
@@ -721,30 +717,6 @@
     }
   },
   "people": [
-    {
-      "famc": [],
-      "fams": [
-        {
-          "ref": "F4*25fab21a-9857-4fac-b30d-cdda8d4de1d0"
-        }
-      ],
-      "id": "I5*5fe6b927-b702-4227-8c51-561f812d7fbe",
-      "names": [
-        {
-          "value": "Ompu Tarsuman /Siboro/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "tag": "DEAT",
-          "value": "Y"
-        }
-      ]
-    },
     {
       "famc": [
         {
