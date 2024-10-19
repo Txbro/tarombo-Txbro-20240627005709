@@ -6,11 +6,7 @@
           "ref": "I3*7356d806-4cef-4290-b41a-cf73501ab6dc"
         }
       ],
-      "husbandRefs": [
-        {
-          "ref": "I1*842d3c9b-f185-4401-aeb4-bcd0a99fe2d5"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F1*1aad56bb-ec21-4fb2-b699-d37da22ca0e1",
       "wifeRefs": []
     },
@@ -761,25 +757,6 @@
     }
   },
   "people": [
-    {
-      "fams": [
-        {
-          "ref": "F1*1aad56bb-ec21-4fb2-b699-d37da22ca0e1"
-        }
-      ],
-      "id": "I1*842d3c9b-f185-4401-aeb4-bcd0a99fe2d5",
-      "names": [
-        {
-          "value": "Datu Parulas Parultop /Siboro/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
     {
       "famc": [
         {
