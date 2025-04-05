@@ -790,11 +790,7 @@
       ],
       "notes": [
         {
-          "sourceCitations": [
-            {
-              "value": ""
-            }
-          ],
+          "sourceCitations": [],
           "sourceCitationsUnderValue": false,
           "value": ""
         }
