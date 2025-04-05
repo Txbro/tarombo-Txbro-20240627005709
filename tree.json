@@ -781,6 +781,22 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ],
+      "notes": [
+        {
+          "sourceCitations": [
+            {
+              "value": ""
+            }
+          ],
+          "sourceCitationsUnderValue": false,
+          "value": ""
         }
       ]
     },
