@@ -788,7 +788,11 @@
           "tag": "BIRT"
         }
       ],
-      "sourceCitations": [],
+      "sourceCitations": [
+        {
+          "value": "Buku WKH YPES\nBuku Drs. Djabintang H. Siboro\nBuku WM. Hutagalung\nTradisi Lisan"
+        }
+      ],
       "notes": [
         {
           "sourceCitations": [],
@@ -3130,7 +3134,7 @@
       "id": "S1*d9844a74-27d8-48f0-9ade-fc0b0a3ba979",
       "titl": "",
       "extensions": {
-        "citaz": 1
+        "citaz": 0
       }
     },
     {
