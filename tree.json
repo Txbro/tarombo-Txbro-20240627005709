@@ -826,6 +826,11 @@
           "tag": "BIRT"
         }
       ],
+      "sourceCitations": [
+        {
+          "value": "Buku Wkh Ypes\nBuku Drs. Djabintang Siboro\nBuku Waldemar Hutagalung\nTradisi Lisan"
+        }
+      ],
       "notes": [
         {
           "sourceCitationsUnderValue": false,
