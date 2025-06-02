@@ -791,6 +791,9 @@
       "sourceCitations": [
         {
           "value": "Buku WKH YPES\nBuku Drs. Djabintang H. Siboro\nBuku WM. Hutagalung\nTradisi Lisan\nPustaha tangkal burnung ni horbo\nPustaha pane na bolon"
+        },
+        {
+          "value": ""
         }
       ],
       "notes": [
@@ -3127,6 +3130,12 @@
           "value": "F"
         }
       ]
+    }
+  ],
+  "repositories": [
+    {
+      "id": "R1*7757203a-6c9a-4c89-a339-11f1761addf5",
+      "name": ""
     }
   ],
   "sources": [
